@@ -18,4 +18,4 @@ node index.js netflix_titles_original.csv
 
 Lab: https://www.skills.google/course_templates/649/labs/550917
 
-Video: https://www.youtube.com/@starttraining5/videos
+Video: https://youtu.be/_HRbr22HDDI
