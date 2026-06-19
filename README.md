@@ -10,9 +10,11 @@ sudo chmod +x starttraining.sh
 ./starttraining.sh
 ```
 ### Task 2:
+```
 cd ~/pet-theory/lab06/firebase-import-csv/solution
 npm install
 node index.js netflix_titles_original.csv
+```
 
 Lab: https://www.skills.google/course_templates/649/labs/550917
 
