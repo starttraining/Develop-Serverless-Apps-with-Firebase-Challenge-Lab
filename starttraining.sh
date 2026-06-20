@@ -23,7 +23,7 @@ clear
 
 # Welcome Banner
 echo "${CYAN_TEXT}${BOLD_TEXT}============================================================${RESET_FORMAT}"
-echo "${GREEN_TEXT}${BOLD_TEXT}        🚀 WELCOME TO starttraining LAB JI 🚀${RESET_FORMAT}"
+echo "${GREEN_TEXT}${BOLD_TEXT}        🚀 WELCOME TO starttraining LAB 🚀${RESET_FORMAT}"
 echo "${CYAN_TEXT}${BOLD_TEXT}============================================================${RESET_FORMAT}"
 echo
 echo "${YELLOW_TEXT}${BOLD_TEXT}📢 Subscribe to starttraining ❤️${RESET_FORMAT}"
